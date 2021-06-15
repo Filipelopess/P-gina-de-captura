@@ -1,1 +1,3 @@
-Esse é um projeto de página de captura do curso Programador BR.
+Esse é um projeto de Página de Captura do curso Programador BR.
+
+(Em andamento)
